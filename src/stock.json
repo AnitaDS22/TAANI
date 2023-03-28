@@ -1,0 +1,84 @@
+{
+    "producto": [
+      {
+        "id": 1,
+        "description": "Gold-plated necklace with pendant",
+        "category": "Necklaces",
+        "img": "../src/assets/collarnoche1.jpg",
+        "price": 49.99,
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "description": "Sterling silver hoop earrings",
+        "category": "Earrings",
+        "img": "../src/assets/aros1.jpg",
+        "price": 29.99,
+        "stock": 20
+      },
+      {
+        "id": 3,
+        "description": "Pearl bracelet with silver clasp",
+        "category": "Bracelets",
+        "img": "../src/assets/pulcera2.jpg",
+        "price": 39.99,
+        "stock": 15
+      },
+      {
+        "id": 4,
+        "description": "Diamond stud earrings",
+        "category": "Earrings",
+        "img": "./src/assets/aros2.jpg",
+        "price": 299.99,
+        "stock": 5
+      },
+      {
+        "id": 5,
+        "description": "Crystal-encrusted statement ring",
+        "category": "Rings",
+        "img": "./src/assets/aros3.jpg",
+        "price": 69.99,
+        "stock": 8
+      },
+      {
+        "id": 6,
+        "description": "Charm bracelet with enamel accents",
+        "category": "Bracelets",
+        "img": "./src/assets/collarnoche1.jpg",
+        "price": 24.99,
+        "stock": 25
+      },
+      {
+        "id": 7,
+        "description": "Rose gold-plated hoop earrings",
+        "category": "Earrings",
+        "img": "./src/assets/aros3.jpg",
+        "price": 39.99,
+        "stock": 18
+      },
+      {
+        "id": 8,
+        "description": "Sapphire and diamond pendant necklace",
+        "category": "Necklaces",
+        "img": "./src/assets/collartriangulo.jpg",
+        "price": 499.99,
+        "stock": 3
+      },
+      {
+        "id": 9,
+        "description": "Emerald and gold ring",
+        "category": "Rings",
+        "img": "../src/assets/pulcera4.jpg",
+        "price": 199.99,
+        "stock": 12
+      },
+      {
+        "id": 10,
+        "description": "Pearl and diamond drop earrings",
+        "category": "Earrings",
+        "img": "../src/assets/pulceras1.jpg",
+        "price": 179.99,
+        "stock": 7
+      }
+    ]
+  }

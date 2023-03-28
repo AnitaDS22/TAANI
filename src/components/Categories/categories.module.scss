@@ -1,0 +1,34 @@
+.container{
+    padding: 0.8rem;
+     display: flex;
+     background-color: #372549;
+     justify-content: space-around;
+     font-size: larger;
+     font-weight: 900;
+     color: #eacdc2;
+ 
+     a {
+       padding: 30px;
+       color:#eacdc2;
+       text-decoration: none;
+     }
+ 
+  &:hover {
+     background-color: blanchedalmond;
+    
+    
+    a{ color:#372549;
+  }   
+ p{ color: #372549;}
+ 
+  }
+ }
+ 
+ @media screen and (max-width:416px) {
+ 
+   .container {
+     flex-direction: column;
+   }
+ 
+   
+ }
